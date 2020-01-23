@@ -1,5 +1,3 @@
- say_hello("gabriela")
- 
- 
- 
- Hello Gabriela!
+ def say_hello("gabriela")
+ puts "Hello, gabriela!
+ end"
