@@ -1,5 +1,3 @@
 
-
-
     say_hello()
   end
