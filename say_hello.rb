@@ -1,3 +1,3 @@
 
-def say_hello kent beck"
+def say_hello kent beck
 end
