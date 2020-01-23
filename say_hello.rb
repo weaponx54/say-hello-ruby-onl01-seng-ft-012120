@@ -1,4 +1,3 @@
 
-def say_hello ("kent beck"
-  puts hello
+def say_hello ("kent beck")
 end
