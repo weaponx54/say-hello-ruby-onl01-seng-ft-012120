@@ -1,6 +1,6 @@
 
- def say_hello ("gabriela")
+ say_hello ("gabriela")
  
  
  
-  Hello gabriela!
+Hello gabriela!
